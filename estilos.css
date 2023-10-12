@@ -10,7 +10,7 @@ body{
 }
 #bot{
   width: 80%;
-  margin: 0px auto;
+  height: auto;
 }
 
 .article{
