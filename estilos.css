@@ -9,8 +9,8 @@ body{
 
 }
 #bot{
-  width: 60px !important;
-  height: 60px !important;
+  width: 80% !important;
+  height: auto !important;
 }
 
 .article{
