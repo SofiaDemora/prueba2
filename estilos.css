@@ -2,10 +2,17 @@ body{
   background-color:#EA899A;
   font-family: Arial, Helvetica, sans-erif;
 }
+
+nav{
+    background: lightpink;
+    height: 35px;
+}
 nav ul li{
-  width: 70%;
-  margin: 0px auto;
+  
+  list-style: none;
+  list-style-type: disc;
   float: left;
+  margin: 10px;
 }
 header{
   width: 70%;
@@ -20,10 +27,3 @@ header{
   margin: 0px auto;
 
 }
-
-
-.article{
-
-}
-
-
