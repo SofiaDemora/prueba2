@@ -2,9 +2,10 @@ body{
   background-color:#EA899A;
   font-family: Arial, Helvetica, sans-erif;
 }
-nav{
+nav ul li{
   width: 70%;
   margin: 0px auto;
+  float: left;
 }
 header{
   width: 70%;
