@@ -15,5 +15,6 @@ body{
 }
 
 header{
-  style ="color: red;";
+  style ="color: red";
+  margin: 0px auto;
 }
