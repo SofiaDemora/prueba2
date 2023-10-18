@@ -2,7 +2,10 @@ body{
   background-color:#EA899A;
   font-family: Arial, Helvetica, sans-erif;
 }
-
+nav{
+  width: 70%;
+  margin: 0px auto;
+}
 header{
   width: 70%;
   margin: 0px auto;
