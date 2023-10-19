@@ -39,9 +39,10 @@ header{
 }
 
 aside {
-    flex: 1;
     background-color: lightgray;
     padding: 15px;
+    top:0;
+    right:0;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
