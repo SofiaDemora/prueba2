@@ -25,7 +25,7 @@ header{
 #container{
   width: 70%;
   margin: 0px auto;
-
+  text-align: start;
 }
 
 #foto{
@@ -40,7 +40,7 @@ header{
 
 aside {
     background-color: lightgray;
-    padding: 15px;
+    padding: 8px;
     top:0;
     right:0;
     width: 25%;
