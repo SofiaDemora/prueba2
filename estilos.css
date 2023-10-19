@@ -27,3 +27,25 @@ header{
   margin: 0px auto;
 
 }
+
+#foto{
+    height: 20%;
+    width: auto;
+    margin: 0px;
+}
+
+.article{
+
+}
+img.pequeña{
+    width: 50px;
+    height: 50px;
+  }
+  img.mediana{
+    width: auto;
+    height: 180px;
+  }
+  img.grande{
+    width: 200px;
+    height: 200px;
+  }
