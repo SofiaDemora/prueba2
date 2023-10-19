@@ -43,7 +43,7 @@ img.pequena{
   }
   img.mediana{
     width: 200px;
-    height: 180px;
+    height: auto;
   }
   img.grande{
     width: 200px;
