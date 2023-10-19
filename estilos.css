@@ -39,11 +39,9 @@ header{
 }
 
 aside {
-  float: right;
+    float: right;
     background-color: lightgray;
     padding: 8px;
-    top:0;
-    right:0;
     width: 25%;
     height: 400px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
