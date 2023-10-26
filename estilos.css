@@ -4,6 +4,7 @@ body{
 }
 
 nav{
+    text-align:center;
     background: lightpink;
     height: 35px;
 }
