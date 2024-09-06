@@ -20,9 +20,8 @@ header{
   margin: 0px auto;
   color: rgb(255,51,0);
   text-align: center;
-  line-height: 100px;
+  line-height: 0px;
 }
-
 #container{
   width: 80%;
   margin: 0px auto;
