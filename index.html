@@ -87,4 +87,24 @@
     <p>Descripción de la imagen 1.</p>
 </section>
 
+<script>
+    // Obtener todos los enlaces
+    const links = document.querySelectorAll('nav a');
+
+    // Agregar un evento de clic a cada enlace
+    links.forEach(link => {
+        link.addEventListener('click', (event) => {
+            event.preventDefault(); // Evitar el comportamiento por defecto del enlace
+            const targetId = link.getAttribute('href').substring(1); // Obtener el id del destino
+            const targetElement = document.getElementById(targetId); // Seleccionar el elemento objetivo
+
+            // Desplazar el elemento objetivo a la vista
+            targetElement.scrollIntoView({
+                behavior: 'smooth', // Desplazamiento suave
+                block: 'start' // Posicionar el elemento al inicio del contenedor visible
+            });
+        });
+    });
+</script>
+
 </html>
